@@ -26,4 +26,3 @@ ques_link = ""
 sol_cpp = ""
 sol_python = ""
 sol_java = ""
-
